@@ -1,0 +1,24 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <text x="400" y="40" font-size="28" text-anchor="middle" font-family="Arial" font-weight="bold">Architecture Diagram: Binance Futures CLI Bot</text>
+  <rect x="50" y="100" width="200" height="60" fill="#e9ecef" stroke="#343a40" stroke-width="2"/>
+  <text x="150" y="135" font-size="18" text-anchor="middle" font-family="Arial">CLI (src/cli.py)</text>
+  <rect x="300" y="100" width="200" height="60" fill="#e9ecef" stroke="#343a40" stroke-width="2"/>
+  <text x="400" y="135" font-size="18" text-anchor="middle" font-family="Arial">Common Utils (src/common.py)</text>
+  <rect x="550" y="100" width="200" height="60" fill="#e9ecef" stroke="#343a40" stroke-width="2"/>
+  <text x="650" y="135" font-size="18" text-anchor="middle" font-family="Arial">Logger (src/logger_setup.py)</text>
+  <rect x="175" y="220" width="150" height="60" fill="#dee2e6" stroke="#343a40" stroke-width="2"/>
+  <text x="250" y="255" font-size="16" text-anchor="middle" font-family="Arial">Market Orders</text>
+  <rect x="375" y="220" width="150" height="60" fill="#dee2e6" stroke="#343a40" stroke-width="2"/>
+  <text x="450" y="255" font-size="16" text-anchor="middle" font-family="Arial">Limit Orders</text>
+  <rect x="575" y="220" width="150" height="60" fill="#dee2e6" stroke="#343a40" stroke-width="2"/>
+  <text x="650" y="255" font-size="16" text-anchor="middle" font-family="Arial">Advanced Strategies</text>
+  <rect x="375" y="340" width="150" height="60" fill="#ced4da" stroke="#343a40" stroke-width="2"/>
+  <text x="450" y="375" font-size="16" text-anchor="middle" font-family="Arial">Binance API</text>
+  <line x1="150" y1="160" x2="250" y2="220" stroke="#495057" stroke-width="2"/>
+  <line x1="400" y1="160" x2="450" y2="220" stroke="#495057" stroke-width="2"/>
+  <line x1="650" y1="160" x2="650" y2="220" stroke="#495057" stroke-width="2"/>
+  <line x1="250" y1="280" x2="450" y2="340" stroke="#495057" stroke-width="2"/>
+  <line x1="450" y1="280" x2="450" y2="340" stroke="#495057" stroke-width="2"/>
+  <line x1="650" y1="280" x2="450" y2="340" stroke="#495057" stroke-width="2"/>
+</svg>

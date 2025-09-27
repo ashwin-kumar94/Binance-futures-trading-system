@@ -1,0 +1,18 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <text x="400" y="40" font-size="28" text-anchor="middle" font-family="Arial" font-weight="bold">CLI Command Flow</text>
+  <rect x="50" y="100" width="200" height="60" fill="#e9ecef" stroke="#343a40" stroke-width="2"/>
+  <text x="150" y="135" font-size="18" text-anchor="middle" font-family="Arial">User Input</text>
+  <rect x="300" y="100" width="200" height="60" fill="#e9ecef" stroke="#343a40" stroke-width="2"/>
+  <text x="400" y="135" font-size="18" text-anchor="middle" font-family="Arial">Argparse Parser</text>
+  <rect x="550" y="100" width="200" height="60" fill="#e9ecef" stroke="#343a40" stroke-width="2"/>
+  <text x="650" y="135" font-size="18" text-anchor="middle" font-family="Arial">Command Handler</text>
+  <rect x="300" y="220" width="200" height="60" fill="#dee2e6" stroke="#343a40" stroke-width="2"/>
+  <text x="400" y="255" font-size="18" text-anchor="middle" font-family="Arial">Binance API</text>
+  <rect x="550" y="220" width="200" height="60" fill="#dee2e6" stroke="#343a40" stroke-width="2"/>
+  <text x="650" y="255" font-size="18" text-anchor="middle" font-family="Arial">Logging</text>
+  <line x1="250" y1="130" x2="300" y2="130" stroke="#495057" stroke-width="2"/>
+  <line x1="500" y1="130" x2="550" y2="130" stroke="#495057" stroke-width="2"/>
+  <line x1="650" y1="160" x2="650" y2="220" stroke="#495057" stroke-width="2"/>
+  <line x1="400" y1="160" x2="400" y2="220" stroke="#495057" stroke-width="2"/>
+</svg>
